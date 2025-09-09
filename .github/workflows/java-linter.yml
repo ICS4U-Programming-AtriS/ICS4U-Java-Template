@@ -10,7 +10,7 @@
 ---
 
 
-name: Java Linter
+name: Mr Coxall's Super Linter
 
 
 
@@ -24,7 +24,7 @@ jobs:
  run-linters:
 
 
-   name: Java Linter
+   name: Mr Coxall's Super Linter
 
 
    runs-on: ubuntu-latest
