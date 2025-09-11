@@ -7,8 +7,7 @@
 */
 public final class NameOfProgram {
   /**
-   * Private constructur
-   * to satisfy style checker
+   * Private constructor to satisfy style checker.
    * @exception IllegalStateException for the utility class.
    * @see IllegalStateException
    */
@@ -18,7 +17,7 @@ public final class NameOfProgram {
   }
 
   /**
-   * Entrypoint of the program
+   * Entrypoint of the program.
    * @param args UNUSED.
    */
   public static void main(final String[] args) {
